@@ -2,7 +2,7 @@
 
 ## 电路设计原理
 
-![IMG](https://github.com/IllusionMZX/Mio_arduino/blob/main/Arduino-基于LM35的温度采集与显示/source code and design files/img/Tmp_detect.png)
+![IMG](https://github.com/IllusionMZX/Mio_arduino/blob/main/Arduino-基于LM35的温度采集与显示/source_code_and_design_files/img/Tmp_detect.png)
 
 ### 总体架构
 
