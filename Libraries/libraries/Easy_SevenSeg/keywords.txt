@@ -1,0 +1,12 @@
+# Syntax Coloring Map For Easy SevenSeg
+
+# Datatypes (KEYWORD1)
+EasySevenSeg    KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+printDigit KEYWORD2
+printLetter	KEYWORD2
+
+# Instances (KEYWORD2)
+
+# Constants (LITERAL1)
