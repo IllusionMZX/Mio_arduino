@@ -42,14 +42,14 @@ Currently, there are three sub-projects included in this project, which are `Spe
 
 ### Environment
 
-1. arduino IDE 1.8.19 and above
-2. protues 8.11
+1. Arduino IDE 1.8.19 and above
+2. Protues 8.11
 
 ```sh
 git clone https://github.com/IllusionMZX/Mio_arduino.git
 ```
 
-### version control
+### Version control
 
 The project uses Git for versioning. You can see the currently available versions in the repository.
 
