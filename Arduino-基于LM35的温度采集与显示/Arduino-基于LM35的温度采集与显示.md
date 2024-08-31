@@ -79,7 +79,7 @@ void setup() {
 
 ​       `setup()`函数中首先启动串口，将波特率设为9600，并在串口打印`Detection begin!`。其次启用`LED_PIN`和`Key_Pin`，分别设为`OUTPUT`输出模式和`INPUT_PULLUP`上拉电阻模式。随后初始化WS2812灯带和u8g2 OLED显示屏。WS2812的启动设置了流水灯效果，提升用户的交互体验。其中流水灯的RGB颜色通过随机函数`random`取得，每个WS2812LED灯点亮不同的颜色。
 
-*** 4、`tmp_fan_control()`温度控制风扇和OLED显示函数的编写***
+***4、`tmp_fan_control()`温度控制风扇和OLED显示函数的编写***
 
 ```C
 void tmp_fan_control(){
@@ -176,7 +176,7 @@ void oled_display(){
 - u8g2通过`firstPage()`和`nextPage`函数和`do{}while()`循环语句实现翻页刷新显示的效果。并将温度值`tmp`转换为字符串，以供u8g2输出。
 - 设置字体样式和图标样式
 
-​       在`do{}while()`循环体内设置u8g2显示的字体样式，和显示的图标样式，其中温度计等图标Font通过在`github`查找u8g2开源项目文件中的`Font Group`找到对应的图标和字体。<img src="C:\Users\缪子翔\AppData\Roaming\Typora\typora-user-images\image-20231031145757318.png" alt="image-20231031145757318" style="zoom:50%;" />
+​       在`do{}while()`循环体内设置u8g2显示的字体样式，和显示的图标样式，其中温度计等图标Font通过在`github`查找u8g2开源项目文件中的`Font Group`找到对应的图标和字体。
 
 **以摄氏温度图标`℃`为例**
 
