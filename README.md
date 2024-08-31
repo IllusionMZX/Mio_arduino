@@ -65,4 +65,4 @@ martin.zx.miao@outlook.com
 
 ### Copyright
 
-The project is licensed under the MIT License, for more information see [LICENSE](https://github.com/IllusionMZX/Mio_arduino/blob/main/LICENSE)
+The project is licensed under the MIT License, for more information see [LICENSE](https://github.com/IllusionMZX/Mio_arduino/blob/main/LICENSE).
