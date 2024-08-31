@@ -4,7 +4,7 @@
 
 参考国家规定的车用电子警报器标准，如下图：
 
-![image-20231022192856014](C:\Users\缪子翔\AppData\Roaming\Typora\typora-user-images\image-20231022192856014.png)
+![image](./image/国标车用电子警报器标准.png)
 
 编写三种车辆的报警函数
 
